@@ -11,7 +11,7 @@ int main () {
 		cout << "Wow legal age";
 	}
 	else if {
-		cout << "Minor";
+		cout << "Minor";t
 	}	
 	else {
 		cout << "Invalid."
